@@ -1,13 +1,13 @@
 # Simulation
 
 ## Logic 00
-![image1](ac100.jpg)
+![image1](https://github.com/govindbansal1309/EmbeddedC/blob/main/Activity1/Simulation/ac100.JPG)
 
 ## Logic 01
-![image2](ac101.jpg)
+![image2](https://github.com/govindbansal1309/EmbeddedC/blob/main/Activity1/Simulation/ac101.JPG)
 
 ## Logic 10
-![image3](ac110.jpg)
+![image3](https://github.com/govindbansal1309/EmbeddedC/blob/main/Activity1/Simulation/ac110.JPG)
 
 ## Logic 11
-![image4](ac111.jpg)
+![image4](https://github.com/govindbansal1309/EmbeddedC/blob/main/Activity1/Simulation/ac111.JPG)
