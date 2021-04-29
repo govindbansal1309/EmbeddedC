@@ -2,7 +2,16 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = src/main.c\
-src/fuse.c
+src/fuse.c\
+src/Buttons.c\
+src/InitADC.c\
+src/PortSet.c\
+src/Pulse.c\
+src/PulseWidth.c\
+src/ReadADC.c\
+src/USART.c\
+
+INC = -I inc
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
