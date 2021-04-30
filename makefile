@@ -7,7 +7,7 @@ src/Buttons.c\
 src/InitADC.c\
 src/PortSet.c\
 src/Pulse.c\
-src/PulseWidth.c\
+src/PWM.c\
 src/ReadADC.c\
 src/USART.c\
 
