@@ -16,7 +16,7 @@ int main(void)
     {
         Buttons();
         ReadADC(0);
-        PulseWidth();
+        PWM();
         Pulse();
         USARTWriteChar();
 
