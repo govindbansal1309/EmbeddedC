@@ -18,7 +18,6 @@ int main(void)
         ReadADC(0);
         PulseWidth();
         Pulse();
-        USARTReadChar();
         USARTWriteChar();
 
 
