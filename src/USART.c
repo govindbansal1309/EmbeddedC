@@ -27,7 +27,7 @@ unsigned volatile int temp;
 void USARTWriteChar()
 {
     char data;
-    while(!(UCSR0A&&(1<<UDR0)))
+    while(!(UCSR0A&(1<<UDRE0)))
     {
         //do nothing
     }
