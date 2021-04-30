@@ -3,7 +3,7 @@
 /*Brief 
 * Sets Wave Generation Mode and Prescalar
 */
-void PulseWidth();
+void PWM();
 
 /*Brief
 * Reads data from ADC output and sets the pulse width accordingly
